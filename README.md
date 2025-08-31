@@ -43,10 +43,8 @@ Plaintext sample: b"Burning 'em, if you ain't quick and nimble\nI go crazy when 
 - **Key recovery**: For each key byte position, the script solves a single-byte XOR problem using English character frequency.
 - **Decryption**: The recovered key is used to decrypt the full ciphertext.
 
-## Author
-
-- GitHub Copilot / [Your Name Here]
 
 ## License
 
-MIT License (or specify your own here).
+MIT License 
+
